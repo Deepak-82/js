@@ -33,3 +33,25 @@ const myFunction = function(){
 }
 
 console.log(typeof id);
+
+
+// +++++++++++++++++++Memory++++++++++++++++++
+
+// Stack (Primitive) = copy; Heap(Non-Primitive) = reference
+
+let myname = "Deepak"
+let anothername = myname
+anothername = "Deep"
+console.log(myname);
+console.log(anothername);
+
+let userone = {
+    email : "user@google.com",
+    upi : "user@ybl"
+}
+
+let userTwo = userone
+
+userTwo.email = "deep@google.com"
+
+console.log(userone.email);
