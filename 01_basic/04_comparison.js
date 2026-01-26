@@ -15,5 +15,5 @@
 // console.log(undefined==0)
 // console.log(undefined<0)
 
-// ===
+// ===Comparison Datatype
 console.log("2"===2)
