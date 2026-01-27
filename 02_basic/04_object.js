@@ -74,11 +74,11 @@ console.log(instructor);
 
 
 //API
-{
-    "name": "Deepak",
-    "coursename": "js in hindi",
-    "price": "free"
-}
+// {
+//     "name": "Deepak",
+//     "coursename": "js in hindi",
+//     "price": "free"
+// }
 [
     {
 
