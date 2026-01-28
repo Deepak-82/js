@@ -23,7 +23,7 @@ console.log(real_another_array);
 
 console.log(Array.isArray("Deepak"))
 console.log(Array.from("Deepak"));
-console.log(Array.from(({name: "Deepak"}))); //intesting case 
+console.log(Array.from(({name: "Deepak"}))); //intresting case 
 
 
 let score1 = 100

@@ -48,7 +48,7 @@ users[1].email
 // console.log(Object.values(tinderUser));
 // console.log(Object.entries(tinderUser));//separate entries in array
 
-// console.log(tinderUser.hasOwnProperty('isLoggedIn'));
+console.log(tinderUser.hasOwnProperty('isLoggedIn'));
 
 
 const course = {
@@ -66,19 +66,19 @@ const {courseInstructor: instructor} = course //destructuring{}
 console.log(instructor);
 
 
-// const navbar = ({company}) => {
+ /*const navbar = ({company}) => {
 
-// }
+ }
 
-// navbar(company = "Deepak") //react
+ navbar(company = "Deepak") //react
 
 
-//API
-// {
-//     "name": "Deepak",
-//     "coursename": "js in hindi",
-//     "price": "free"
-// }
+API
+{
+     "name": "Deepak",
+    "coursename": "js in hindi",
+    "price": "free"
+}*/
 [
     {
 
